@@ -4,6 +4,7 @@ This repository contains the projects that I have done for my internship in Prod
 Task 1 : Population distribution
 
 Task 2 : EDA on Titanic Dataset
+         https://github.com/Yugarakshini/Prodigy_DS_04/blob/main/titanic%20proj.ipynb
 
 Task 3 : Bank Marketing
 
