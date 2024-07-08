@@ -10,5 +10,6 @@ Task 3 : Bank Marketing
          https://github.com/Yugarakshini/Prodigy_DS_04/blob/main/uci%20banking%20task3.ipynb
 
 Task 4 : Twitter Sentiment Analysis
+         https://github.com/Yugarakshini/Prodigy_DS_04/blob/main/twitterSentimentalAnalysis.ipynb
 
 Task 5 : Traffic Accident Data
