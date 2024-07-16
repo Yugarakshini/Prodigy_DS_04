@@ -12,5 +12,3 @@ Task 3 : Bank Marketing
 
 Task 4 : Twitter Sentiment Analysis
          https://github.com/Yugarakshini/Prodigy_DS_04/blob/main/twitterSentimentalAnalysis.ipynb
-
-Task 5 : Traffic Accident Data
