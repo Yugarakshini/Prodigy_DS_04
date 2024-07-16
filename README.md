@@ -2,6 +2,7 @@
 This repository contains the projects that I have done for my internship in Prodigy Infotech
 
 Task 1 : Population distribution
+         https://github.com/Yugarakshini/Prodigy_DS_04/blob/main/task1%20intern.pbix
 
 Task 2 : EDA on Titanic Dataset
          https://github.com/Yugarakshini/Prodigy_DS_04/blob/main/titanic%20proj.ipynb
